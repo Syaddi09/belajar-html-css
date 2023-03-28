@@ -1,0 +1,45 @@
+.table, table{
+    text-align: center;
+}
+
+.table{
+    color: blue;
+}
+
+th{
+    color: red;
+    background-color: aqua;
+}
+
+td{
+    color: green;
+    
+    /* background-color: rgb(69, 253, 32); */
+}
+
+tr:nth-child(even){
+    background-color: blanchedalmond;
+}
+
+
+table{
+    margin: auto;
+    border-c
+    
+    ollapse: collapse;
+
+}
+
+th, td{
+    padding: 20px 30px;
+}
+
+.btn-add {
+    background-color: blanchedalmond;
+}
+
+.btn-add:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: red;
+}
